@@ -1,4 +1,4 @@
-### What's up! Welcome to my github profile, I'm Wellington 👋🏽 (for some only Ton).
+### What's up! Welcome to my github profile, I'm Wellington 👋🏽 (for some only Ton), it's good to see you here.
 
 
 - 🔭 I’m a curious Software Engineer currently working on frontend.
