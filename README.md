@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a curious Software Engineer currently working on frontend.
-- 🥰 I love to learn something new, share my knowledge and and make the people's life more easy with techology.
+- 🥰 I love to learn something new, share my knowledge and make the people's life more easy with technology.
 - 🌱 Phrase of the day: Live for a purpose greater than yourself and you will see how great life can be.
 
 ##
