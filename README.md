@@ -1,7 +1,7 @@
 ### What's up! Welcome to my github profile, I'm Wellington and it's good to see you here .<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 
-- 🔭 I’m a curious Software Engineer currently working on frontend.
+- 🔭 I’m a curious Software Engineer currently working on Full Stack Development.
 - 🥰 I love to learn something new, share my knowledge and make the people's life more easy with technology.
 - 🌱 Phrase of the day: Live for a purpose greater than yourself and you will see how great life can be.
 
@@ -12,13 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtonacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonacosta&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img   align="center" alt="Ton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+
           
           
   
@@ -28,5 +22,6 @@
  
   <a href = "mailto:wellingtonacosta09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wellington-alves-da-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https:https://www.instagram.com/wellingtoncosta.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  
 </div>
